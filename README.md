@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<!--  
-**GauravRocketBooster/GauravRocketBooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Gauravjeet Singh**, a ✨ student ✨, a tech enthusiat, and an astronomy fanatic.
 
+<img align="left" alt="GauravRocketBooster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GauravRocketBooster&show_icons=true&theme=blueberry"/>
+
+
+
+
+
+
+<!--  
+because its `README.md` (this file) appears on your GitHub profile.
+
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
