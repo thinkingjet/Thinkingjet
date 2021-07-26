@@ -2,7 +2,7 @@
 
 **I am Gauravjeet Singh**, a ✨ student ✨, a tech enthusiat, and an astronomy fanatic.
 
-<img align="left" alt="GauravRocketBooster's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GauravRocketBooster&show_icons=true&theme=blueberry"/>
+<img align="left" alt="ThinkingJet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThinkingJet&show_icons=true&theme=blueberry"/>
 
 
 
