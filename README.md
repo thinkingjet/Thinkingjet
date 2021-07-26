@@ -4,6 +4,8 @@
 
 <img align="left" alt="ThinkingJet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThinkingJet&show_icons=true&theme=blueberry"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ThinkingJet/github-readme-stats)
+
 
 
 
